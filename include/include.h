@@ -7,6 +7,8 @@
 #include <stdint.h>
 #include <stdbool.h>
 
+#include "global.h"
 #include "32u4SPI.h"
+#include "ST7796s.h"
 
 #endif // #ifndef INCLUDE_h
